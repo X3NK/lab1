@@ -1,3 +1,1 @@
-git add lab1.txt
-git add LICENSE
-git commit -m 'Init project'
+//виконав: Усачик Денис КБ-19-1
